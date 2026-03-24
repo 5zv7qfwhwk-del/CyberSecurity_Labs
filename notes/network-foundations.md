@@ -67,6 +67,7 @@ Potential interception points include:
 ping google.com
 traceroute google.com
 ```
+<img width="1172" height="812" alt="Screenshot 2026-01-17 at 16 15 07" src="https://github.com/user-attachments/assets/ffcf1cd7-bb51-4f86-9e6f-ce63c638f2e8" />
 
 ------------------------------------------------------------------------
 
