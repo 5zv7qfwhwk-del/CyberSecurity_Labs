@@ -29,4 +29,5 @@ Understanding **who communicates on a network** and **who controls traffic decis
 ```bash
 ip a
 ip route
-
+```
+<img width="642" height="410" alt="Screenshot 2026-01-17 at 16 19 44" src="https://github.com/user-attachments/assets/297b2e15-e030-47e0-a7e3-67e74b425731" />
